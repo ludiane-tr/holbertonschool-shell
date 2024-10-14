@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'My_first_directory' > tmp
+mkdir My_first_directory
