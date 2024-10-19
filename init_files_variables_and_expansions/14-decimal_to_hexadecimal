@@ -1,2 +1,2 @@
 #!/bin/bash
-printf $(($BINARY#16))
+printf "%x\n" $DECIMAL
